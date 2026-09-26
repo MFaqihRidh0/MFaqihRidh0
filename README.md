@@ -1,76 +1,75 @@
 <div align="center">
 
-<!-- Greek Meander Top Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1610,3d2e1e,c5a059&height=180&section=header&text=THE%20ARCHIVES%20OF%20OLYMPUS&fontSize=38&fontColor=f5e6c8&fontAlignY=38&stroke=d4af37&strokeWidth=1" width="100%" />
+<!-- Spanduk Animasi Gerbang Olympus -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:09090e,50:231c07,100:d4af37&height=220&section=header&text=⚡%20MOUNT%20OLYMPUS%20ARCHIVES%20⚡&fontSize=34&fontColor=fff2c6&fontAlignY=45&stroke=f3cf7a&strokeWidth=2&animation=twinkling" width="100%" />
 
-### 🏛️ `M. Faqih Ridho` 🏛️
-*“I continue to seek endless perfection in the program.”*
-
-<!-- Animated Typing Text / Oracle Prophecy -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Forging+logic+in+the+flames+of+Hephaestus...;Crafting+distributed+architectures+%26+systems;Architecting+digital+edifices+stone+by+stone;Welcome+to+the+Acropolis+of+Code." alt="Typing SVG" />
-</a>
+# 🏛️ `P R O P H E C Y  ·  O F  ·  F A Q I H` 🏛️
+*“I continue to seek endless perfection in the program.”*[cite: 1]
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/golden.png" width="80%" />
+<!-- Animasi Teks Orakel Kuno Bergerak -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=20&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=⚡+Summoning+algorithms+with+the+thunder+of+Zeus...;🔥+Forging+resilient+backends+in+the+anvil+of+Hephaestus...;🌊+Streaming+distributed+networks+through+Poseidon's+seas...;📜+Guarded+by+the+wisdom+of+Athena." alt="Oracle Prophecy Animation" />
+</a>
+
+<br/><br/>
+
+<!-- Garis Pemisah Emas Animasi -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" height="4" />
 
 </div>
 
-### 📜 THE SCROLL OF KNOWLEDGE (Tech Stack)
+<br/>
 
-<table>
-  <tr>
-    <td align="center" width="9999">
-      <br/>
-      <b>⚔️ Core & Low-Level Crafts</b><br/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <br/><br/>
-      <b>🏛️ Web Architecture & Distributed Networks</b><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-
----
-
-### ⚡ CHRONICLES & EXPEDITIONS (Stats)
+### 📜 THE PARCHMENT OF ARTISANSHIP (Arsenal)
 
 <div align="center">
 
-<!-- GitHub Stats & Top Langs with Ancient Gold Palette -->
-<img src="https://github-readme-stats.vercel.app/api?username=MFaqihRidh0&show_icons=true&title_color=d4af37&icon_color=c5a059&text_color=e0d2b4&bg_color=0d1117&border_color=d4af37&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFaqihRidh0&layout=compact&title_color=d4af37&text_color=e0d2b4&bg_color=0d1117&border_color=d4af37" height="165" />
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MFaqihRidh0&theme=dark&stroke=d4af37&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=D4AF37" width="80%" alt="Olympian Streak" />
-
-<br/><br/>
-
-<!-- Contribution Snake Animation eating ancient pixels -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MFaqihRidh0/MFaqihRidh0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MFaqihRidh0/MFaqihRidh0/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MFaqihRidh0/MFaqihRidh0/output/github-contribution-grid-snake.svg" width="90%">
-</picture>
+| Realm | Divine Implements |
+| :--- | :--- |
+| **⚡ Hephaestus' Forge**<br>*(Low-Level & Kernel)* | <img src="https://skillicons.dev/icons?i=cpp,c,python,linux,bash&theme=dark" /> |
+| **🔱 Poseidon's Current**<br>*(Distributed & Data)* | <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,mongodb,redis&theme=dark" /> |
+| **🏛️ Athena's Architecture**<br>*(Web, API & Services)* | <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nextjs,tailwind,git&theme=dark" /> |
 
 </div>
 
+<br/>
+
 ---
 
-### 🏺 TREASURY OF ARTIFACTS (Key Highlights)
+### ⚡ TRIALS OF CHRONOS (Olympian Activity)
+
+<div align="center">
+
+<!-- Kartu Statistik Emas Olympus (Animasi Glow) -->
+<a href="https://github.com/MFaqihRidh0">
+  <img src="https://github-readme-stats.vercel.app/api?username=MFaqihRidh0&show_icons=true&theme=tokyonight&title_color=f3cf7a&icon_color=d4af37&text_color=e6dfcc&bg_color=0c0d12&border_color=d4af37&border_radius=12&count_private=true" height="175" />
+</a>
+<a href="https://github.com/MFaqihRidh0">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFaqihRidh0&layout=compact&theme=tokyonight&title_color=f3cf7a&text_color=e6dfcc&bg_color=0c0d12&border_color=d4af37&border_radius=12" height="175" />
+</a>
+
+<br/><br/>
+
+<!-- Streak Flame Stats Emas -->
+<a href="https://github.com/MFaqihRidh0">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MFaqihRidh0&theme=dark&stroke=d4af37&background=0C0D12&ring=F3CF7A&fire=D4AF37&currStreakNum=FFF2C6&currStreakLabel=D4AF37&sideNums=FFF2C6&sideLabels=D4AF37&dates=8B7E66&border=D4AF37&border_radius=12" width="85%" alt="Streak of the Titans" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+### 🏺 RELICS & ARTIFACTS OF THE REALM
+
+<div align="center">
 
 ```prolog
-🏛️ [Gym-Quest]           :: Computer Vision & Motion Tracking Sanctuary
-⚡ [Smart Cold Storage]  :: Distributed Monitoring via gRPC Streams
-🛡️ [Pelatihan-Linux]     :: Foundations of the Operating Realm
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  ⚡ [Gym-Quest]           :: Vision of Argus (Pose & Motion Tracking CV)      ║
+║  🔱 [Smart Cold Storage]  :: Poseidon's Cryo Streams (Distributed gRPC)       ║
+║  🛡️ [Pelatihan-Linux]     :: Spartan Citadel Defense (OS Kernel Mastery)      ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
